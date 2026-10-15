@@ -1,0 +1,13 @@
+{
+  "name": "gandalf126-skills",
+  "owner": {
+    "name": "Gandalf126"
+  },
+  "plugins": [
+    {
+      "name": "paper-to-bullets",
+      "source": "./",
+      "description": "Turn a paper into five bullets: title, question, method, result, limitation."
+    }
+  ]
+}
